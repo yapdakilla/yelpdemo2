@@ -48,3 +48,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'rails_12factor', group: :production
 gem 'pg', group: :production
+gem 'carrierwave'
+gem "fog"
+gem "fog-aws"
+gem "figaro"
